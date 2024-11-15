@@ -1,0 +1,11 @@
+#lista {
+    font-size: 20px;
+}
+
+body.external{
+    background-color: green;
+}
+
+body.external h1{
+    color: rgb(7, 248, 19);
+}
