@@ -10,3 +10,35 @@ p {
   margin: 0;
   padding: 0;
 }
+
+/* Estilo para el contenedor exterior */
+#outer-box {
+  background-color: purple;
+  padding: 10px;
+}
+
+/* Estilo para las cajas azules */
+.box {
+  background-color: blue;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+/* Estilo para las cajas rojas */
+.inner-box {
+  background-color: red;
+  padding: 10px;
+  margin: 10px 0;
+}
+
+/* Estilo para el texto amarillo */
+p {
+  color: yellow;
+  margin: 0;
+  padding: 0;
+}
+
+/* Estilo para el texto blanco */
+.white-text {
+  color: white;
+}
